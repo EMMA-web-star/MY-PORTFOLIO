@@ -710,6 +710,7 @@ ul{
             
             &:hover{
                 border-radius: .3em;    
+                color: white;
 
             }
         }
